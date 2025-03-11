@@ -12,7 +12,7 @@ Haz un fork de este repositorio.
 Clona el repositorio en tu máquina local.
 
 ```sh
-git clone https://github.com/tu-usuario/ong-casd.git
+git clone https://github.com/pirulug/ong-casd.git
 ```
 Crea una nueva rama para tu contribución.
 

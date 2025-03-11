@@ -36,8 +36,8 @@ Crea un Pull Request y espera la revisión del equipo.
 ## 🎖 Beneficios para los Colaboradores
 Los colaboradores activos que realicen aportes significativos recibirán:
 
-✅ Un certificado de colaboración emitido por la ONG CASD.
-✅ Una constancia de trabajo por 6 meses, validando tu experiencia en el proyecto.
+- ✅ Un certificado de colaboración emitido por la ONG CASD.
+- ✅ Una constancia de trabajo por 6 meses, validando tu experiencia en el proyecto.
 
 ## Contacto
 
